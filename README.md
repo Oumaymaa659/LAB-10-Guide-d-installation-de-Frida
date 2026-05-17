@@ -1,7 +1,5 @@
 # LAB 10 – Guide d'installation de Frida
-
-**Auteur :** Oumayma Benhilal  
-**Cours :** Sécurité des applications mobiles  
+ 
 
 ## Objectifs pédagogiques
 - Installer et vérifier Frida (client, Python et CLI) sur Windows, macOS et Linux.
